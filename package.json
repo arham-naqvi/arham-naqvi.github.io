@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raza-naq/raza-naq.github.io.git"
+    "url": "git+https://github.com/arham-naqvi/arham-naqvi.github.io.git"
   },
   "keywords": [
     "build",
@@ -18,12 +18,12 @@
     "update",
     "sync"
   ],
-  "author": "Raza Naqvi",
+  "author": "Arham Naqvi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raza-naq/raza-naq.github.io/issues"
+    "url": "https://github.com/arham-naqvi/arham-naqvi.github.io/issues"
   },
-  "homepage": "https://github.com/raza-naq/raza-naq.github.io#readme",
+  "homepage": "https://github.com/arham-naqvi/arham-naqvi.github.io#readme",
   "dependencies": {
     "jsdom": "^27.0.1"
   }
